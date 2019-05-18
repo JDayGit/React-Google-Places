@@ -1,5 +1,5 @@
-# Maps-Todo-App
-A simple todo app that utilizes the Google Maps API. 
+# Google-Places
+A simple React todo app that utilizes the Google Maps API. 
 
 ## Prerequisites
 [Google Maps API Key](https://developers.google.com/places/web-service/get-api-key).
