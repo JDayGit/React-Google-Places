@@ -1,5 +1,5 @@
 # Google-Task-Manger
-A simple task manager that utilizes the Google Maps API. 
+A simple todo app that utilizes the Google Maps API. 
 
 ## Prerequisites
 [Google Maps API Key](https://developers.google.com/places/web-service/get-api-key).
