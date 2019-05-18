@@ -1,4 +1,4 @@
-# Google-Task-Manger
+# Maps-Todo-App
 A simple todo app that utilizes the Google Maps API. 
 
 ## Prerequisites
